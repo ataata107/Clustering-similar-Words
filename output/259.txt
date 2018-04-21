@@ -1,0 +1,5 @@
+fixed forward notional month based payment one interest_rate_swap party irs two term exposure swaptions curve enters amount risk three reset side actual convention receives exchange period net cap made fras point act vanilla cross day credit 
+swap rate libor floating interest transaction date pay euribor leg tenor counterparty used contract time variable fixing fra enter entered basis reference entering ois underlying notional_amount year derivative market swaption payer spread future using fixed_rate borrowing receive currency following position hedge make end floating_rate quarterly value agreement counterparties overnight instrument receiver use example also reference_rate set month_libor calculated start quoted case cost determined hedging 
+
+
+

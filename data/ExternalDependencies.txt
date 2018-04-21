@@ -1,0 +1,5 @@
+=================================================== WRITE THE DEPENDENCIES BELOW ===============================================================
+pip install matplotlib
+pip install nltk
+pip install gensim
+pip install sklearn

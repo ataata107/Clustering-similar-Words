@@ -1,0 +1,3 @@
+===================================== FILL YOUR EXPLANATION BELOW ===============================================================================
+
+Here I am using word2vec to convert the word into its vector form then using kmeans clustering upon those vectors.

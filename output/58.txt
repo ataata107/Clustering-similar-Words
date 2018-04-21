@@ -1,0 +1,5 @@
+meter speed power current time set controller table switch standard setting value type esd drive timer extended terminal unit level series mode command reset alarm reference measurement iec minimum inversion lift relay perm low supply model self two waveform transformer make acta second method local rpm data process travel monitoring figure 
+input barrier output control trigger voltage parameter high point core end circuit error threshold maximum position motor pin function phase change limit led display one fault start range size via option stop tight domestic cos load case side digital double fuse clock capable cable fdm communication used signal manual 
+
+
+
